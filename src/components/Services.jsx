@@ -76,7 +76,7 @@ return (
                         <div className="relative bg-white/5 backdrop-blur-xl border border-white/10 rounded-xl sm:rounded-2xl p-4 sm:p-6 group-hover:border-blue-500/30 transition-all duration-300">
                             <div className="flex items-center justify-center h-[300px] sm:h-[400px] lg:h-[500px] rounded-lg overflow-hidden">
                                 <img 
-                                    src="src/assets/services.png" 
+                                    src="/services.png" 
                                     alt="Digital Marketing Services" 
                                     className="w-full h-full object-contain animate-in slide-in-from-bottom duration-700 delay-200"
                                 />

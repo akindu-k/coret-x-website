@@ -18,7 +18,7 @@ export default function Navbar({ scrolled }) {
           {/* Logo */}
           <div className="flex items-center space-x-1 group cursor-pointer">
             <img
-              src="/src/assets/logo.jpeg"
+              src="/logo.jpeg"
               alt="logo"
               className="w-6 h-6 sm:w-8 sm:h-8"
             />

@@ -71,7 +71,7 @@ export default function Hero() {
             <div className="relative bg-white/5 backdrop-blur-xl rounded-xl sm:rounded-2xl p-3 sm:p-4 shadow-2xl border border-white/10">
               <div className="flex items-center justify-center h-[280px] sm:h-[350px] lg:h-[450px] rounded-lg overflow-hidden">
                 <img 
-                  src="src/assets/ai.png" 
+                  src="/ai.png" 
                   alt="AI Technology Visualization" 
                   className="w-full h-full object-contain animate-in slide-in-from-bottom duration-700 delay-400"
                 />

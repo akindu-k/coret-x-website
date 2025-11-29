@@ -26,7 +26,7 @@ const features = [
     title: "Automated Growth Systems",
     description:
       "We engineer marketing engines and business workflows that run 24/7—automating operations, optimizing decisions, and driving consistent revenue without manual effort.",
-    image: "src/assets/grow.png",
+    image: "/grow.png",
     type: "image",
     imagePosition: "right",
   },
@@ -34,7 +34,7 @@ const features = [
     title: "Precision-Driven Storytelling",
     description:
       "We combine machine-level precision with emotional storytelling to turn complexity into clarity. CORTE X transforms brands into powerful, globally competitive forces.",
-    image: "src/assets/story.png",
+    image: "/story.png",
     type: "image",
     imagePosition: "left",
   },
